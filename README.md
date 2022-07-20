@@ -27,13 +27,12 @@ For my senior capstone project, I collaborated with two other data science minor
 
 ## [Project 4: California Wildfire Prediction](https://github.com/ngandr/Wildfires)
 
-       · Predicted wildfires through querying, cleaning, and manipulating 7.5 million observations worth of data and fitting classification 
-          models through Google Cloud. Achieved highest testing accuracy of 90% and f1-score of 88%
-       . Created graphs and geospatial plots to identify variables that play significant roles in wildfire spread in California
-
-
 I read in and process over 7.5 million observations worth of data using BigQuery to visualize and classify wildfires in California from 2010 to 2020 through the Google Cloud Platform. I additionally created geospatial plots to help identify key variables that play major roles in wildfire spread, such as soil moisture, temperature, and geographic location within California. I was able to achieve a testing accuracy of 90% and f1-score of about 88% through a random forest classifier. Other models I investigated were ridge-regularized logistic regression, support vector machine, and a gradient boosted classifier.
 
-## [Project 5: Predicting Housing Prices with Advanced Regression Techniques]
+![](/images/ca_wildfires.png)
+
+![](/images/soil_moisture.png)
+
+## [Project 5: Predicting Housing Prices with Advanced Regression Techniques](https://github.com/ngandr/Housing-Regression-Analysis)
 
 
