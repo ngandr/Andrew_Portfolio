@@ -35,4 +35,7 @@ I read in and process over 7.5 million observations worth of data using BigQuery
 
 ## [Project 5: Predicting Housing Prices with Advanced Regression Techniques](https://github.com/ngandr/Housing-Regression-Analysis)
 
-
++ Performed feature engineering and selection on housing data containing over 70 different variables in R
++ Applied dimensionality reduction techniques and tuned and fitted numerous regression models including K-NN and random forest
++ Achieved highest R-squared value of .921 via extreme gradient boosted regression
+        
