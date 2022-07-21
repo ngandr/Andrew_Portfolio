@@ -39,3 +39,6 @@ I read in and process over 7.5 million observations worth of data using BigQuery
 + Applied dimensionality reduction techniques and tuned and fitted numerous regression models including K-NN and random forest
 + Achieved highest R-squared value of .921 via extreme gradient boosted regression
         
+![](/images/lot_sale_price.png)
+
+![](neighborhood_sale_price.png)
