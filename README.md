@@ -41,4 +41,4 @@ I read in and process over 7.5 million observations worth of data using BigQuery
         
 ![](/images/lot_sale_price.png)
 
-![](neighborhood_sale_price.png)
+![](/images/neighborhood_sale_price.png)
