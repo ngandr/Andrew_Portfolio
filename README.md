@@ -21,7 +21,7 @@ I cleaned and preprocessed over 4,000 English-language TED Talk transcripts and 
 
 ![](/images/user_data_clusters.png)
 
-![](/images/anime_recs_2.png)
+![](/images/anime_recs_2.PNG)
 
 ## Project 3: Data Science Capstone
 
