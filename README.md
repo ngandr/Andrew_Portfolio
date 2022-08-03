@@ -10,7 +10,7 @@ I cleaned and preprocessed over 4,000 English-language TED Talk transcripts and 
 
 ![](/images/topics_boxplot.png)
 
-## [Project 2: Cluster Analysis on Anime Data](https://github.com/ngandr/anime_proj)
+## [Project 2: Cluster Analysis and Recommendations on Anime Data](https://github.com/ngandr/anime_proj)
 
 + Queried and cleaned data on over 3,100 observations from [AniList](https://anilist.co/), an anime database and tracking website, using GraphQL
 + Performed exploratory analysis and unsupervised learning with nominal data and user scores to find hidden clusters based on genres/tags, popularity, and overall reception
@@ -20,6 +20,8 @@ I cleaned and preprocessed over 4,000 English-language TED Talk transcripts and 
 ![](/images/eda_popularity.png)
 
 ![](/images/user_data_clusters.png)
+
+![](/images/anime_recs_2.png)
 
 ## Project 3: Data Science Capstone
 
