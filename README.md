@@ -47,6 +47,6 @@ For my senior capstone project, I collaborated with two other data science minor
 
 ## [Basic Analysis on Anime Data](https://ngandr73.shinyapps.io/anime-app/)
 
-+ created an R Shiny app the performed basic numerical and text analyses on data scraped and cleaned from Crunchyroll
+I created an R Shiny app the performed basic numerical and text analyses on data scraped and cleaned from Crunchyroll
 
 ![](/images/shinyapp.png)
